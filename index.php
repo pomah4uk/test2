@@ -15,6 +15,13 @@
 			</div>
 		</div>
 	</div>
+    <div class="container-fluid py-5 bg-dark">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-12 col-md-10 col-lg-10">
+                <h1 class="text-white">Header</h1>
+            </div>
+        </div>
+    </div>
 <script src="assets/main.js"></script>
 </body>
 </html>
